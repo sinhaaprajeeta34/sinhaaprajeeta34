@@ -11,7 +11,6 @@
 ---
 
 ## 👩‍💻 About Me
-# 👩‍💻 About Me
 
 ```yaml
 Name:
@@ -19,8 +18,7 @@ Name:
 
 Education:
   B.Tech - Computer Science Engineering
-  Arya College of Engineering & IT
-  Rajasthan Technical University
+   Arya College of Engineering
 
 Role:
   Aspiring cloud Engineer
