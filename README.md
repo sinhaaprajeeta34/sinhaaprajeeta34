@@ -53,7 +53,7 @@ Goals:
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/aprajeeta-sinha34">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
