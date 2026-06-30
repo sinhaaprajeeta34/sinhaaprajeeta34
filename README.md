@@ -1,21 +1,53 @@
 <h1 align="center">Hi 👋, I'm Aprajeeta Sinha</h1>
 
-<h3 align="center">☁️ Aspiring Cloud Engineer | AWS Enthusiast | Python Developer | CSE Student</h3>
+<h3 align="center">
+🚀 Aspiring Frontend Developer | ☁️ Cloud Enthusiast | 🎓 CSE Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=AWS+Cloud+Engineer;Python+Developer;Linux+Enthusiast;DSA+Learner;Always+Learning+New+Things🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;AWS+Cloud+Enthusiast;Building+Modern+Web+Applications🚀" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 CSE Student
-- ☁️ Learning AWS Cloud Computing
-- 🐍 Python Developer
-- 💻 Solving DSA on LeetCode
-- 🌱 Currently learning Linux, AWS & System Design
-- 🚀 Building Real World Cloud Projects
+```yaml
+Name:
+  Aprajeeta Sinha
+
+Education:
+  B.Tech - Computer Science Engineering
+  Arya College of Engineering & IT
+  Rajasthan Technical University
+
+Role:
+  Aspiring cloud Engineer
+
+Skills:
+  HTML
+  CSS
+  JavaScript
+  AWS Basics
+
+Current Learning:
+  React.js
+  Advanced JavaScript
+  AWS Cloud
+  Linux
+  DSA
+
+Certificates:
+  AWS Cloud Training
+  IBM Agentic AI 
+
+Goals:
+  Become a Frontend Developer
+  Build Real World Projects
+  Learn AWS Cloud
+  Crack a Good Internship
+```
 
 ---
 
