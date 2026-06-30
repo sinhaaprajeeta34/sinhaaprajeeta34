@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;AWS+Cloud+Enthusiast;Building+Modern+Web+Applications🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;AWS+Cloud+Enthusiast;Building+Modern+Web+Applications🚀" />
 </p>
 
 ---
@@ -108,10 +108,6 @@ Goals:
 ## 🏆 Certifications
 
 ✅ AWS Cloud Training
-
-✅ Python
-
-✅ Linux
 
 ---
 
